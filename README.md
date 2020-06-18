@@ -1,5 +1,5 @@
 # USB Protect
-Immunise USB Drives from malicious threats, permanently! 
+Immunise your USB Drives from malicious threats, permanently! 
 
 ## Usage
 * Download the [USB Protect](https://github.com/amakvana/USB-Protect/releases/download/v1.0/USB-Protect.exe) executable 
